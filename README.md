@@ -16,14 +16,14 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## [✍️ Your Name]'s Cloud Journey
 
-[✍️ Introduce yourself]
+Hi,I am Rajeev I'm very much interested in cloud computing I want to better my skill and 
+learn from #100DaysOfCloudCommunity.  
 
-[✍️ Tell us why you started this challenge]
+I started my journey to continue my learning journey.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge I would like to complete AWS developer Associate
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [LinkedIn](https://www.linkedin.com/in/rajeev-kumar-541a631a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXe37UZG9Q%2FyUqa%2BBwqhEJQ%3D%3D)
 
 ## Stepping out the door
 
